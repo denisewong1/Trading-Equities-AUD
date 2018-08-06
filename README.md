@@ -2,7 +2,7 @@
 Useful Scripts for Trading Database for ASX Stocks
  
 
-# Sourcing Data
+# Raw Data
 The following scripts scrape webpages from various sources and stores output in a CSV file.
 
 |Type           | R Script  | Source |
