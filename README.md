@@ -1,13 +1,13 @@
 # Trading Equities AUD
-Useful Scripts for Trading Database for AUD Equities
+Useful Scripts for Trading Database for ASX Stocks
  
 
 # Sourcing Data
-The following scripts scrape webpages from various sources and create a CSV file which can then be read into a database.
+The following scripts scrape webpages from various sources and stores output in a CSV file.
 
 |Type           | R Script  | Source |
 |:---|:---|:---|
-|Dividends | TBA | https://www.morningstar.com.au/Stocks/UpcomingDividends |
+|Dividends | scrape_Dividends | https://www.morningstar.com.au/Stocks/UpcomingDividends |
 |Curr Announcements| TBA | https://www.asx.com.au/asx/statistics/todayAnns.do |
 |Prev Announcements | TBA | https://www.asx.com.au/asx/statistics/prevBusDayAnns.do |
 
