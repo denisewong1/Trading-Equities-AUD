@@ -8,7 +8,7 @@ The following scripts scrape webpages from various sources and stores output in 
 |Data         |Type | R Script  | Source |
 |:---|:---|:---|:---|
 |Dividends |Current| scrape_DividendsCurr | https://www.morningstar.com.au/Stocks/UpcomingDividends |
-|Dividends |Historical| scrape_DividendsPrev | http://www.sharedividends.com.au/NAB |
+|Dividends |Historical| scrape_DividendsHist | http://www.sharedividends.com.au/NAB |
 |Announcements|Current| TBA | https://www.asx.com.au/asx/statistics/todayAnns.do |
 |Announcements |Previous |TBA | https://www.asx.com.au/asx/statistics/prevBusDayAnns.do |
 
