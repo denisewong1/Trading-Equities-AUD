@@ -2,8 +2,8 @@
 Useful Scripts for Trading Database for AUD Equities
  
 
-# Updating Data
-The following files scrape files from various sources and create a CSV file which can then be read into a database.
+# Sourcing Data
+The following scripts scrape webpages from various sources and create a CSV file which can then be read into a database.
 
 |Type           | R Script  | Source |
 |:---|:---|:---|
