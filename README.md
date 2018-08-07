@@ -10,8 +10,8 @@ The following scripts scrape webpages from various sources and stores output in 
 |Dividends |Current| scrape_DividendsCurr | https://www.morningstar.com.au/Stocks/UpcomingDividends |
 |Dividends |Historical| scrape_DividendsHist | http://www.sharedividends.com.au/NAB |
 |Dividends |Historical| scrape_DividendsHist2 | http://dividends.com.au/dividend-history/?enter_code=NAB |
-|Announcements|Current| TBA | https://www.asx.com.au/asx/statistics/todayAnns.do |
-|Announcements |Previous |scrape_Announcements | https://www.asx.com.au/asx/statistics/prevBusDayAnns.do |
+|Announcements|Current| scrape_AnnouncementsCurr | https://www.asx.com.au/asx/statistics/todayAnns.do |
+|Announcements |Previous |scrape_AnnouncementsPrev | https://www.asx.com.au/asx/statistics/prevBusDayAnns.do |
 
  
 # Useful Links
