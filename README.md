@@ -12,7 +12,7 @@ The following scripts scrape webpages from various sources and stores output in 
 |Dividends |Historical| scrape_DividendsHist2 | http://dividends.com.au/dividend-history/?enter_code=NAB |
 |Announcements|Current| scrape_AnnouncementsCurr | https://www.asx.com.au/asx/statistics/todayAnns.do |
 |Announcements |Previous |scrape_AnnouncementsPrev | https://www.asx.com.au/asx/statistics/prevBusDayAnns.do |
-|News |Recent |TBA | https://www.morningstar.com.au/Stocks/SignalGDigest |
+|News |Recent |scrape_News | https://www.morningstar.com.au/Stocks/SignalGDigest |
 |Broker Reports |Recent |TBA | http://www.sharecafe.com.au/article.asp?a=ALP&p=1 |
 |ASX Companies |Current |TBA | https://www.asx.com.au/asx/research/listedCompanies.do |
 |Index Constituents |Current |TBA | https://www.marketindex.com.au/asx300 |
