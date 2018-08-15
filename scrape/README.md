@@ -1,1 +1,1 @@
-Folder for Scraping Code in R  
+Folder for scraping websites in R  
