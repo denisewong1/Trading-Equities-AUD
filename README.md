@@ -3,12 +3,11 @@ Useful Scripts for Trading Database for ASX Stocks
 
 
 
-# Scripts
-The following scripts scrape webpages from various sources and stores output in a CSV file.
+## Folders & Contents
 
 |Folder         |Description | 
 |:---|:---|
-|scrape |scripts for web scraping data & news |
+|scrape |scripts for web scraping data & news, stores output to CSV file |
 
 
  
