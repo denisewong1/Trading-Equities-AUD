@@ -2,8 +2,13 @@
 Useful Scripts for Trading Database for ASX Stocks
 
 
-## Folder Scrape
-Useful Scripts for scraping data from the web
+
+# Scripts
+The following scripts scrape webpages from various sources and stores output in a CSV file.
+
+|Folder         |Description | 
+|:---|:---|
+|scrape |scripts for web scraping data & news |
 
 
  
