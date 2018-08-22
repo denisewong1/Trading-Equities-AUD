@@ -20,4 +20,5 @@ The following scripts scrape webpages from various sources and stores output in 
 |Annual Reports |Historical |TBA | TBA |
 |Company Information |Current |TBA | https://www.asx.com.au/asx/share-price-research/company/WBC |
 |Short Position Reports |Current |TBA | https://asic.gov.au/regulatory-resources/markets/short-selling/short-position-reports-table/ |
+|Market Capitalisation |Historical |TBA | https://www.asxlistedcompanies.com/ |
 
