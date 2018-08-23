@@ -22,10 +22,11 @@ https://eodhistoricaldata.com/knowledgebase/excel-vba-stock-api-example/
 |Prices |Live| TBA | https://www.asx.com.au/asx/markets/equityPrices.do?by=asxCodes&asxCodes=CBA |
 |Prices |Live| TBA | https://www.asx.com.au/asx/markets/priceLookup.do?by=asxCodes&asxCodes=REX |
 |Prices |Historical| TBA | https://www.asx.com.au/asx/1/share/ANZ/prices?interval=daily&count=500 |
-|Warrants |Live| TBA | https://www.asx.com.au/asx/markets/warrantPrices.do?by=underlyingAsxCode&underlyingCode=CBA&expiryDate= |
-|Options |Live| TBA | https://www.asx.com.au/asx/markets/optionPrices.do?by=underlyingCode&underlyingCode=CBA&expiryDate=&optionType=B |
+|Warrants |Live| TBA | https://www.asx.com.au/asx/1/company/MQG/warrants |
+|Options |Live| TBA | https://www.asx.com.au/asx/1/company/MQG/options |
 |Announcements|Current| scrape_AnnouncementsCurr | https://www.asx.com.au/asx/statistics/todayAnns.do |
 |Announcements |Previous |scrape_AnnouncementsPrev | https://www.asx.com.au/asx/statistics/prevBusDayAnns.do |
+|Announcements |Historical |scrape_AnnouncementsPrev | https://www.asx.com.au/asx/1/company/MQG/announcements |
 |Announcements |Historical |TBA | https://www.asx.com.au/asx/statistics/announcements.do?by=asxCode&asxCode=CBA&timeframe=Y&year=2017 |
 |News |Recent |scrape_News | https://www.morningstar.com.au/Stocks/SignalGDigest |
 |Broker Reports |Recent |TBA | http://www.sharecafe.com.au/article.asp?a=ALP&p=1 |
