@@ -17,7 +17,7 @@ https://eodhistoricaldata.com/knowledgebase/excel-vba-stock-api-example/
 |Dividends |Current| scrape_DividendsCurr | https://www.morningstar.com.au/Stocks/UpcomingDividends |
 |Dividends |Historical| scrape_DividendsHist | http://www.sharedividends.com.au/NAB |
 |Dividends |Historical| scrape_DividendsHist2 | http://dividends.com.au/dividend-history/?enter_code=NAB |
-|Dividends |Historical| TBA | https://www.asx.com.au/asx/1/company/MQG/dividends |
+|Dividends |Historical| scrape_DividendsHist3 | https://www.asx.com.au/asx/1/company/MQG/dividends |
 |Prices |Live| scrape_PriceLive | https://www.asx.com.au/asx/1/share/NEA/ |
 |Prices |Live| TBA | https://www.asx.com.au/asx/markets/equityPrices.do?by=asxCodes&asxCodes=CBA |
 |Prices |Live| TBA | https://www.asx.com.au/asx/markets/priceLookup.do?by=asxCodes&asxCodes=REX |
