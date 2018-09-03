@@ -33,6 +33,17 @@ https://eodhistoricaldata.com/knowledgebase/excel-vba-stock-api-example/
 |News |Recent |scrape_News | https://www.morningstar.com.au/Stocks/SignalGDigest |
 |Forum |Current |TBA | https://hotcopper.com.au/discussions/asx---by-stock/ |
 |ASX Companies |Current |TBA | https://www.asx.com.au/asx/research/listedCompanies.do |
+|Reporting Season |Current |TBA | https://www.fnarena.com/index.php/reporting_season/ |
+|Broker Reports |Current |TBA | http://www.sharecafe.com.au/broker_news.asp?a=ALT&p=50 |
+
+broker reports start at 3611 to 49829?
+
+### Prev Day Data for Market 
+|Data         |Type | R Script  | Source |
+|:---|:---|:---|:---|
+|Announcements |Previous |scrape_AnnouncementsPrev | https://www.asx.com.au/asx/statistics/prevBusDayAnns.do |
+|Short Interest |Previous |TBA | https://www.asx.com.au/data/shortsell.txt |
+
 
 ### Historical Data
 
@@ -41,22 +52,21 @@ https://eodhistoricaldata.com/knowledgebase/excel-vba-stock-api-example/
 |Prices |Historical| TBA | https://www.asx.com.au/asx/1/share/ANZ/prices?interval=daily&count=500 |
 |Dividends |Historical| scrape_DividendsHist | http://www.sharedividends.com.au/NAB |
 |Dividends |Historical| scrape_DividendsHist2 | http://dividends.com.au/dividend-history/?enter_code=NAB |
-|Announcements |Previous |scrape_AnnouncementsPrev | https://www.asx.com.au/asx/statistics/prevBusDayAnns.do |
 |Announcements |Historical |TBA | https://www.asx.com.au/asx/statistics/announcements.do?by=asxCode&asxCode=CBA&timeframe=Y&year=2017 |
+|Consensus |Historical |scrape_ConsensusHist | https://www.marketindex.com.au/analysis/consensus-data |
 |Broker Reports |Recent |TBA | http://www.sharecafe.com.au/article.asp?a=ALP&p=1 |
 |Index Constituents |Current |TBA | https://www.marketindex.com.au/asx300 |
 |Corporate Calendar |Current |TBA | https://www.morningstar.com.au/Stocks/CorpCalendar |
 |Change in Directors Interest |Historical |TBA | https://www.investsmart.com.au/shares/asx-asx/asx-limited/change-in-directors-interest|
 |Annual Reports |Historical |TBA | TBA |
-|Short Position Reports |Current |TBA | https://asic.gov.au/regulatory-resources/markets/short-selling/short-position-reports-table/ |
+|Short Interest |Historical |TBA | https://asic.gov.au/regulatory-resources/markets/short-selling/short-position-reports-table/ |
 |Market Capitalisation |Historical |TBA | https://www.asxlistedcompanies.com/ |
 
 https://www.fnarena.com/index.php/2018/08/20/weekly-ratings-targets-forecast-changes-84/  
 https://www.marketmatters.com.au/reports/  
-https://www.marketindex.com.au/analysis/consensus-recommendations-27-august-2018 - also look at popular pages
+https://www.marketindex.com.au/ - look at popular pages
 http://www.thebull.com.au/premium/a/76561-18-share-tips---27-august-2018.html  
 https://www.livewiremarkets.com/feeds/trending  
-http://www.sharecafe.com.au/broker_news.asp?a=ALT&p=50  
-
+http://www.sharecafe.com.au/search.asp?a=SR&SearchFor=EVN&searchType=0  
 
 
