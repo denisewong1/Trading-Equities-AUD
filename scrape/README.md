@@ -68,5 +68,5 @@ https://www.marketindex.com.au/ - look at popular pages
 http://www.thebull.com.au/premium/a/76561-18-share-tips---27-august-2018.html  
 https://www.livewiremarkets.com/feeds/trending  
 http://www.sharecafe.com.au/search.asp?a=SR&SearchFor=EVN&searchType=0  
-
+http://www.sharecafe.com.au/article.asp?a=ALP&p=1  
 
