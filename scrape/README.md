@@ -51,11 +51,12 @@ https://eodhistoricaldata.com/knowledgebase/excel-vba-stock-api-example/
 |Short Position Reports |Current |TBA | https://asic.gov.au/regulatory-resources/markets/short-selling/short-position-reports-table/ |
 |Market Capitalisation |Historical |TBA | https://www.asxlistedcompanies.com/ |
 
-https://www.fnarena.com/index.php/2018/08/20/weekly-ratings-targets-forecast-changes-84/
-https://www.marketmatters.com.au/reports/
+https://www.fnarena.com/index.php/2018/08/20/weekly-ratings-targets-forecast-changes-84/  
+https://www.marketmatters.com.au/reports/  
 https://www.marketindex.com.au/analysis/consensus-recommendations-27-august-2018 - also look at popular pages
-http://www.thebull.com.au/premium/a/76561-18-share-tips---27-august-2018.html
-https://www.livewiremarkets.com/feeds/trending
+http://www.thebull.com.au/premium/a/76561-18-share-tips---27-august-2018.html  
+https://www.livewiremarkets.com/feeds/trending  
+http://www.sharecafe.com.au/broker_news.asp?a=ALT&p=50  
 
 
 
