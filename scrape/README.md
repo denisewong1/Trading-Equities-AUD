@@ -39,9 +39,10 @@ broker reports start at 3611 to 49829?
 
 |Data         |Type | R Script  | Source |
 |:---|:---|:---|:---|
+|ASX300 Companies |Historical |TBA | https://www.asx300list.com/ |  
 |Consensus |Historical |scrape_ConsensusHist | https://www.marketindex.com.au/analysis/consensus-data |
 |Short Interest |Historical |TBA | https://asic.gov.au/regulatory-resources/markets/short-selling/short-position-reports-table/ |
-|Market Capitalisation |Historical |TBA | https://www.asx300list.com/ |  
+
 
 ### by ASXCode
 ## Live Data  
