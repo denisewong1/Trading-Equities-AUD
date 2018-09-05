@@ -55,6 +55,7 @@ broker reports start at 3611 to 49829?
 |Dividends |Historical| scrape_DividendsHist3 | https://www.asx.com.au/asx/1/company/MQG/dividends |
 |Announcements |Historical |TBA | https://www.asx.com.au/asx/1/company/MQG/announcements |
 |Company Information |Current |TBA | https://www.asx.com.au/asx/share-price-research/company/WBC |
+|Consensus |Current |TBA | https://www.reuters.com/finance/stocks/analyst/QBE.AX |
 
 ### Historical Data
 
