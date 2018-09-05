@@ -18,8 +18,8 @@ https://eodhistoricaldata.com/knowledgebase/excel-vba-stock-api-example/
 
 |Data         |Type | R Script  | Source |
 |:---|:---|:---|:---|
-|ASX Companies |Current |scrape_lstASX | https://www.asx.com.au/asx/research/listedCompanies.do |
-|ASX300 Companies |Current |scrape_lstASX300 | https://www.marketindex.com.au/asx300 |
+|ASX Companies |Current |scrape_lstASXCurr | https://www.asx.com.au/asx/research/listedCompanies.do |
+|ASX300 Companies |Current |scrape_lstASX300Curr | https://www.marketindex.com.au/asx300 |
 |Dividends |Current| scrape_DividendsCurr | https://www.morningstar.com.au/Stocks/UpcomingDividends |
 |Announcements|Current| scrape_AnnouncementsCurr | https://www.asx.com.au/asx/statistics/todayAnns.do |
 |News |Recent |scrape_News | https://www.morningstar.com.au/Stocks/SignalGDigest |
