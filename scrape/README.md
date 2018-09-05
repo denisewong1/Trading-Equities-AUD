@@ -19,7 +19,6 @@ https://eodhistoricaldata.com/knowledgebase/excel-vba-stock-api-example/
 |Data         |Type | R Script  | Source |
 |:---|:---|:---|:---|
 |ASX Companies |Current |scrape_ASXCurr | https://www.asx.com.au/asx/research/listedCompanies.do |
-|ASX300 Companies |Current |scrape_ASX300Curr | https://www.marketindex.com.au/asx300 |
 |Dividends |Current| scrape_DividendsCurr | https://www.morningstar.com.au/Stocks/UpcomingDividends |
 |Announcements|Current| scrape_AnnouncementsCurr | https://www.asx.com.au/asx/statistics/todayAnns.do |
 |News |Recent |scrape_News | https://www.morningstar.com.au/Stocks/SignalGDigest |
@@ -42,7 +41,7 @@ broker reports start at 3611 to 49829?
 |:---|:---|:---|:---|
 |Consensus |Historical |scrape_ConsensusHist | https://www.marketindex.com.au/analysis/consensus-data |
 |Short Interest |Historical |TBA | https://asic.gov.au/regulatory-resources/markets/short-selling/short-position-reports-table/ |
-|Market Capitalisation |Historical |TBA | https://www.asxlistedcompanies.com/ |  
+|Market Capitalisation |Historical |TBA | https://www.asx300list.com/ |  
 
 ### by ASXCode
 ## Live Data  
