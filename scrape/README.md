@@ -26,6 +26,8 @@ https://eodhistoricaldata.com/knowledgebase/excel-vba-stock-api-example/
 |Corporate Calendar |Current |TBA | https://www.morningstar.com.au/Stocks/CorpCalendar |
 |Forum |Current |TBA | https://hotcopper.com.au/discussions/asx---by-stock/ |
 |Reporting Season |Current |TBA | https://www.fnarena.com/index.php/reporting_season/ |
+|Earnings Calendar |Current |TBA | https://www.bloomberg.com/markets/earnings-calendar/australia |
+
 
 broker reports start at 3611 to 49829?
 
